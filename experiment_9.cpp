@@ -1,5 +1,5 @@
 //a.
-/*22070123094
+/*22070123095
 Experiment_9*/
 #include<iostream>
 using namespace std;
@@ -75,7 +75,7 @@ SIT
 */
 
 //b.
-/*22070123094
+/*22070123095
 pointer_increment*/
 #include<iostream>
 using namespace std;
@@ -131,7 +131,7 @@ Value of Incremented cr_ptr: 0x61fef8
 */
 
 //c.
-/*22070123094
+/*22070123095
 pointer_swap*/
 #include<iostream>
 using namespace std;
